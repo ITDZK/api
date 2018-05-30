@@ -168,6 +168,5 @@
 | request_type_price_fee | Комісія банку |
 
 
--- Links --
 [oauth]: <https://oauth.net/2/>
 [eland]: <https://e.land.gov.ua>
